@@ -38,4 +38,4 @@ y las instrucciones del docente antes de modificarla.
 - GitHub
 
 ## Autor
-Bylopmas
+César Gastón López Bylopmas
