@@ -1,6 +1,6 @@
 # ============================================================
 # Proyecto: SysInfo
-# Autor: Bylopmas
+# Autor: César Gastón López - Bylopmas
 # Descripcion: Consulta PowerShell, politicas de ejecucion
 # y datos del sistema operativo y la PC.
 # ============================================================
