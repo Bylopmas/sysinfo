@@ -2,7 +2,7 @@
 # SysInfo - Inventario de PC con PowerShell
 
 ## Descripción
-Proyecto académico que utiliza PowerShell para recopilar
+Proyecto que utiliza PowerShell para recopilar
 información del sistema operativo y del hardware de una PC.
 
 ## Objetivos
